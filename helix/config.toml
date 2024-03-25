@@ -1,0 +1,12 @@
+theme = "ayu_dark"
+
+[editor]
+auto-format = true
+
+[editor.lsp]
+display-inlay-hints = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
